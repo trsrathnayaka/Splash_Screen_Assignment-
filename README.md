@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## ScreenShots
 
-![Uploading Screenshot (62).png…]()
+![Screenshot (62)](https://github.com/trsrathnayaka/Splash_Screen_Assignment-/assets/97075043/e4b2a964-e1d2-49af-a1d3-6fbc244c8a22)
 
 
 ## Getting Started
