@@ -20,3 +20,18 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+ ### Used Languages
+* C ++
+* Dart
+* CMake
+* Html
+* Swift
+* C
+
+
+### Used Technologies & Frameworks
+* Visual Code
+
+## Thank you 😃
+
+If you like this project just click ⭐ and share it with others.
